@@ -1,7 +1,7 @@
 {
-  "name": "serverless-kubeless",
+  "name": "serverless-kubeless-jin",
   "version": "0.11.2",
-  "description": "This plugin enables support for Kubeless within the [Serverless Framework](https://github.com/serverless).",
+  "description": "This is a forked plugin that enables support for Kubeless within the [Serverless Framework](https://github.com/serverless).",
   "main": "index.js",
   "directories": {
     "example": "examples"
@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/serverless/serverless-kubeless.git"
+    "url": "git+https://github.com/tsoonjin/serverless-kubeless.git"
   },
-  "author": "containers@bitnami.com",
+  "author": "tsoonjin@gmail.com",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/serverless/serverless-kubeless/issues"
+    "url": "https://github.com/tsoonjin/serverless-kubeless/issues"
   },
-  "homepage": "https://github.com/serverless/serverless-kubeless#readme",
+  "homepage": "https://github.com/tsoonjin/serverless-kubeless#readme",
   "dependencies": {
     "aws-sdk": "^2.527.0",
     "bluebird": "^3.5.0",
